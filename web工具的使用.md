@@ -7,3 +7,7 @@
 [[译] SuperAgent中文使用文档](https://cnodejs.org/topic/5378720ed6e2d16149fa16bd)
 
 [nodeJs中的cheerio API](https://cnodejs.org/topic/5203a71844e76d216a727d2e)
+
+[MongoDB+MongoVUE安装及入门](https://www.cnblogs.com/xll1025/p/6443786.html )
+
+MongoDb安装的有时候会停在最后安装MongoDB Compass这里，是由于最后勾选了intall mongodb compassle，先不勾选等后面，在另行安装就可以了
