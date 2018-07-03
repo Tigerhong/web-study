@@ -17,3 +17,5 @@ MongoDb安装的有时候会停在最后安装MongoDB Compass这里，是由于�
 [8天学通MongoDB——第一天 基础入门](http://www.cnblogs.com/huangxincheng/archive/2012/02/18/2356595.html )
 
 [NodeJS常用模块介绍](https://www.cnblogs.com/simadi/p/5793622.html )
+
+[Jade —— 源于 Node.js 的 HTML 模板引擎](https://segmentfault.com/a/1190000000357534 )
