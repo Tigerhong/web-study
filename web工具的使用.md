@@ -15,3 +15,5 @@ MongoDb安装的有时候会停在最后安装MongoDB Compass这里，是由于�
 这位作者写的这个MongoDb系列很不错
 
 [8天学通MongoDB——第一天 基础入门](http://www.cnblogs.com/huangxincheng/archive/2012/02/18/2356595.html )
+
+[NodeJS常用模块介绍](https://www.cnblogs.com/simadi/p/5793622.html )
