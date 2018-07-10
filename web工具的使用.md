@@ -19,3 +19,8 @@ MongoDb安装的有时候会停在最后安装MongoDB Compass这里，是由于�
 [NodeJS常用模块介绍](https://www.cnblogs.com/simadi/p/5793622.html )
 
 [Jade —— 源于 Node.js 的 HTML 模板引擎](https://segmentfault.com/a/1190000000357534 )
+
+两篇介绍mongoose很详细的文章，先记录下来方便以后查看
+[Mongoose学习参考文档——基础篇](https://cnodejs.org/topic/504b4924e2b84515770103dd ) 和
+
+[Mongoose Guide](https://cnodejs.org/topic/5206581b44e76d216aae072e )
